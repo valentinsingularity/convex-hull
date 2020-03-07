@@ -1,0 +1,1 @@
+java -jar -Xms1024m -Xmx3072m smallest-area-polygon-0.0.1-jar-with-dependencies.jar
